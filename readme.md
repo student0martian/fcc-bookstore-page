@@ -18,6 +18,10 @@ Set the page `title` to `XYZ Bookstore Page`.
 
 ### Step 3
 
-Now, improve the structure of your HTML document to ensure your page is encoded correctly. 
+Now, improve the structure of your HTML document to ensure your page is encoded correctly.  
 Inside the `head` element, add the `<meta charset="UTF-8">` element.
 Lastly, add a `<body>` element below the `head` section. This is where all of your visible page content will go.
+
+### Step 4  
+
+In this step, add an `h1` element with the text `XYZ Bookstore`.
