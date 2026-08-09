@@ -8,7 +8,7 @@ In this workshop, you will build a bookstore page by creating book cards that di
 
 ### Step 1
 
-Start your bookstore page by creating the HTML boilerplate.
+Start your bookstore page by creating the HTML boilerplate.  
 Add the `<!DOCTYPE html>` declaration and `<html>` and `<head>` elements. Add a `lang` attribute to the `html` element and set it to `"en"`.
 
 ### Step 2
