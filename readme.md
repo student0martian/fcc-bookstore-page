@@ -25,3 +25,7 @@ Lastly, add a `<body>` element below the `head` section. This is where all of yo
 ### Step 4  
 
 In this step, add an `h1` element with the text `XYZ Bookstore`.
+
+### Step 5  
+
+Below the `h1` element, add a `<p>` element with this text: `Browse our collection of amazing books!`.
