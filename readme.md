@@ -1,3 +1,5 @@
+*"Exercises are based on the freeCodeCamp.org curriculum. All solutions are my own work."*
+
 Build a Bookstore page step by step
 Step 1
 In this workshop, you will build a bookstore page by creating book cards that display information about different books. You'll practice organizing content using <div> elements, classes, and IDs.
