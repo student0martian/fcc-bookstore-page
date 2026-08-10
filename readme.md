@@ -54,3 +54,15 @@ You can add multiple elements inside a `div` element to group related content. I
 
 Add a `class` attribute to this new `div` element and set the value of the `class` attribute to `card`.  
 
+### Step 9  
+
+The `id` attribute adds a unique identifier to an HTML element. Each `id` should be unique within a page and should only be used once.  
+`id` values cannot contain spaces and should only contain letters, digits, underscores, and dashes.  
+Here is an example:  
+
+**Example Code**  
+
+```<p id="para">example paragraph</p>```  
+
+Add an `id` attribute to your element having a class of `card` and set its value to `sally-adventure-book`.  
+
