@@ -36,3 +36,15 @@ The `div` element is used as a container to group other HTML elements. You will 
 Below the `p` element, add a `div` element. This `div` will be a container for your book cards.  
 
 **Note**: This workshop does not apply CSS. Classes and grouped elements are useful for CSS styling, but in this workshop they are used only to structure and group content. You will learn how styling works in a later module.  
+
+### Step 7  
+
+The `class` attribute is used to identify one or more elements for styling. Unlike the `id` attribute, class names do not need to be unique: multiple elements can share the same class.  
+Here is an example:  
+
+**Example Code**  
+
+```<p class="example">example paragraph</p>```  
+
+Add a `class` attribute to your `div` element and set its value to `card-container`.  
+
