@@ -29,3 +29,10 @@ In this step, add an `h1` element with the text `XYZ Bookstore`.
 ### Step 5  
 
 Below the `h1` element, add a `<p>` element with this text: `Browse our collection of amazing books!`.
+
+### Step 6  
+
+The `div` element is used as a container to group other HTML elements. You will mainly use the `div` element when you want to group HTML elements that will share a set of CSS styles.  
+Below the `p` element, add a `div` element. This `div` will be a container for your book cards.  
+
+**Note**: This workshop does not apply CSS. Classes and grouped elements are useful for CSS styling, but in this workshop they are used only to structure and group content. You will learn how styling works in a later module.  
