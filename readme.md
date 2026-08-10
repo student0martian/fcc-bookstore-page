@@ -48,3 +48,9 @@ Here is an example:
 
 Add a `class` attribute to your `div` element and set its value to `card-container`.  
 
+### Step 8  
+
+You can add multiple elements inside a `div` element to group related content. Inside the element having a `class` of `card-container`, create another `div` element. This `div` will represent the first book card.  
+
+Add a `class` attribute to this new `div` element and set the value of the `class` attribute to `card`.  
+
