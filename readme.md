@@ -119,9 +119,8 @@ Remember, an HTML element looks like this:
 
 Below the element with the class `card-container`, add a new `p` element with this text:  
 
-**Example Code**
-  
+**Example Code**  
+
 ```Review your selections and continue to checkout.```  
 
 Below the `p` element, create a `div` element with the `class` attribute set to `btn-container`. This container will group your navigation button elements.  
-
