@@ -69,3 +69,10 @@ Add an `id` attribute to your element having a class of `card` and set its value
 ### Step 10  
 
 Inside the first element having a class of `card`, add an `h2` element with the text `Sally's SciFi Adventure`.  
+
+### Step 11  
+
+Below the `h2` element in the first element having a class of `card`, add a `p` element with the following text:  
+
+**Example Code**  
+```This is an epic story of Sally and her dog Rex as they navigate through other worlds.```
