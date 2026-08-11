@@ -83,3 +83,7 @@ The `button` element is used to create clickable buttons on a webpage. Buttons a
 
 Add a `button` element inside the element that has a `class` of `card`, give the button a `class` attribute set to `btn`, and the text `Buy Now`.  
 
+### Step 13  
+
+Now create a second book card. Add another `div` element with the `class` attribute set to `card`. Notice how you can reuse the same class name for multiple elements to apply consistent styling.  
+
