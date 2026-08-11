@@ -76,3 +76,10 @@ Below the `h2` element in the first element having a class of `card`, add a `p` 
 
 **Example Code**  
 ```This is an epic story of Sally and her dog Rex as they navigate through other worlds.```
+
+### Step 12  
+
+The `button` element is used to create clickable buttons on a webpage. Buttons are interactive elements that users can click to perform actions.  
+
+Add a `button` element inside the element that has a `class` of `card`, give the button a `class` attribute set to `btn`, and the text `Buy Now`.  
+
