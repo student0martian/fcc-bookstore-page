@@ -113,12 +113,14 @@ Both `button` elements now share the same class, which means they can be styled 
 Remember, an HTML element looks like this:  
 
 **Example Code**  
+
 ```<element attribute="value">inner text
 </element>```  
 
 Below the element with the class `card-container`, add a new `p` element with this text:  
 
-**Example Code**  
+**Example Code**
+  
 ```Review your selections and continue to checkout.```  
 
 Below the `p` element, create a `div` element with the `class` attribute set to `btn-container`. This container will group your navigation button elements.  
