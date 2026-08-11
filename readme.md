@@ -114,8 +114,7 @@ Remember, an HTML element looks like this:
 
 **Example Code**  
 
-<element attribute="value">inner text
-</element>  
+```<element attribute="value">inner text</element>```  
 
 Below the element with the class `card-container`, add a new `p` element with this text:  
 
