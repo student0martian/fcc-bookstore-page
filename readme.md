@@ -87,3 +87,6 @@ Add a `button` element inside the element that has a `class` of `card`, give the
 
 Now create a second book card. Add another `div` element with the `class` attribute set to `card`. Notice how you can reuse the same class name for multiple elements to apply consistent styling.  
 
+### Step 14  
+
+Add an `id` attribute to your second element having a class of `card` and set its value to `dave-cooking-book`. Remember that each `id` must be unique.  
