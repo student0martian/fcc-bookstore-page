@@ -139,3 +139,7 @@ Second button:
 - Text: `Checkout`  
 
 Congratulations! You have successfully built the structure of a bookstore page using divs, classes, and ids to organize your content.  
+
+
+[*Check out this book I'm reading*](https://www.freecodecamp.org/news/learn-to-code-book/)
+
